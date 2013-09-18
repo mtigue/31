@@ -1,5 +1,6 @@
 ﻿b {font-weight:normal !important; }
 
+
 body {}
 
 .pagebg {background-image:url('img2/texture2.jpg') !Important; background-repeat:repeat !Important; }
@@ -313,5 +314,6 @@ font-family: 'Lobster', cursive !Important;
 font-size:16px !important;
  }
 
-
-
+.ui-page {
+    -webkit-backface-visibility: hidden !important;
+}

@@ -7,3 +7,5 @@ vti_timecreated:TR|17 Aug 2013 02:59:28 -0000
 vti_cacheddtm:TX|17 Aug 2013 02:59:28 -0000
 vti_filesize:IR|586
 vti_backlinkinfo:VX|31/main-sep16.html 31/main_copy(1).html 31/main.html
+vti_syncwith_68.178.246.6\:21/stanford:TX|17 Aug 2013 02:59:28 -0000
+vti_syncofs_68.178.246.6\:21/stanford:TW|18 Sep 2013 11:47:10 -0000
